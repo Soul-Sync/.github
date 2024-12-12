@@ -4,7 +4,7 @@
 
 # C242-PS090 - Bangkit 2023 Capstone Team Project (SoulSync)
 
-Hello there! 👋 Welcome to the fantastic world of team C242-PS090.We bantu isi
+Hello there! 👋 Welcome to the fantastic world of team C242-PS090. We are a group of dedicated individuals committed to making a positive change in the world of mental health, with the goal of raising awareness, providing better support, and creating an environment that fosters psychological well-being for everyone.
 
 ## ❤️ Project Overview
 
