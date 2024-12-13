@@ -4,15 +4,18 @@
 
 # C242-PS090 - Bangkit 2023 Capstone Team Project (SoulSync)
 
-Hello there! 👋 Welcome to the fantastic world of team C242-PS090.We bantu isi
+Hello there! 👋 Welcome to the fantastic world of team C242-PS090.
 
 ## ❤️ Project Overview
 
-bantu isi
+Soul-Sync is an Android-based health application that offers features to help users manage stress and mental health. This application provides features such as questionnaires for classification of depression from users, relaxation music, daily therapy recommendations, and health articles. In the future, this application is expected to provide good benefits for users to maintain their feelings whenever and wherever needed
 
 ## 🌍 Why It Matters
 
-bantu isi
+Mental health is a state where an individual feels comfortable physically, psychologically, emotionally, and socially, enabling them to recognize their own abilities to handle stress, be productive, and contribute to their environment.
+We believe that mental health is a vital foundation for the well-being of individuals and society. This application is designed to provide easily accessible support for anyone in need of help. With educational resources, and stress management tools, we aim to create a safe and supportive environment for users.
+We understand that each person has a unique journey in their mental health. Therefore, this application offers a personalized approach that allows users to tailor their experience according to their needs and preferences
+As Gen Z who often experience stress, we are committed to creating solutions that are accessible and relevant for our peers. We have also conducted preliminary surveys to understand user needs and found that many in Gen Z are looking for easier and quicker ways to get mental health support. This has driven us to provide tools that can help them feel more connected and supported in managing their mental health.
 
 ## 👥 Meet Our Extraordinary Team
 
