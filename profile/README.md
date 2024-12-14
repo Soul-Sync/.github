@@ -2,7 +2,7 @@
   <img src="app_logo.png" alt="Project Logo" width="300">
 </div>
 
-# C242-PS090 - Bangkit 2023 Capstone Team Project (SoulSync)
+# C242-PS090 - Bangkit 2024 Capstone Team Project (SoulSync)
 
 Hello there! 👋 Welcome to the fantastic world of team C242-PS090.
 
